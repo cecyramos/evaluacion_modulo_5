@@ -1,0 +1,4 @@
+-- CREACION DE BASE DE DATOS --
+
+CREATE DATABASE IF NOT EXISTS inventario;
+USE inventario;
